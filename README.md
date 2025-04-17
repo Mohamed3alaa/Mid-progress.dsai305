@@ -82,9 +82,3 @@ To run the notebooks locally, follow these steps:
 - **Mohamed Alaa** - [GitHub Profile](https://github.com/Mohamed3alaa)
 - **Mostafa Adam** - [GitHub Profile](https://github.com/mostafa22adam)
 - **Muhammad Kamal** - [GitHub Profile](https://github.com/MuhammadKamal6)
-
-*Note: Replace the GitHub profile links with the actual URLs if available.*
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
