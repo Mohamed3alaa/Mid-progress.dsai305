@@ -1,18 +1,20 @@
-# Mid-Progress Project - DSAI 305
+# Mid-Progress Project – DSAI 305
 
-## Overview
+## 📌 Overview
 
-This repository contains the mid-progress submissions for the DSAI 305 course. It includes individual and collaborative efforts focusing on data preprocessing, exploratory data analysis (EDA), and the implementation of machine learning models.
+This repository contains the mid-progress submissions for **DSAI 305**. The work showcases data preprocessing, exploratory data analysis (EDA), and individual machine learning models developed as part of the course.
 
-## Table of Contents
+## 📁 Project Structure
 
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Contributors](#contributors)
-- [License](#license)
+```bash
+├── Preprocessing_and_EDA (1).ipynb                   # Combined EDA and preprocessing steps
+├── Ahmed_Mohammed_202202168_(Nueral_Network_Model).ipynb
+├── Mohamed_Alaa_202200980_(LogisticRegrassion_Model).ipynb
+├── Team_17_DSAI_305_Mostafa_Adam_Proj_Phase_2.ipynb
+├── Team_17_DSAI__305_Muhammad_Kamal_202200899 (1).ipynb
+```
 
-## Project Structure
+Each notebook represents a team member's contribution, covering different ML models and stages of the data pipeline.
 
 The repository is organized as follows:
 
@@ -22,63 +24,44 @@ The repository is organized as follows:
 - `Team_17_DSAI_305_Mostafa_Adam_Proj_Phase_2.ipynb`: Phase 2 project notebook by Mostafa Adam.
 - `Team_17_DSAI__305_Muhammad_Kamal_202200899 (1).ipynb`: Project notebook by Muhammad Kamal.
 
-## Technologies Used
 
-The project utilizes the following technologies and libraries:
 
+
+## 🛠️ Technologies Used
+
+- **Language:** Python
+- **Jupyter Notebooks**
 - Programming Language: Python
 - Data Analysis: Pandas, NumPy
 - Data Visualization: Matplotlib, Seaborn
 - Machine Learning: Scikit-learn, TensorFlow/Keras
 - Environment: Jupyter Notebook
+- **Libraries:**
+  - `pandas`, `numpy` – Data handling
+  - `matplotlib`, `seaborn` – Data visualization
+  - `scikit-learn`, `keras` / `tensorflow` – Machine learning models
 
-## Getting Started
+## 🚀 Getting Started
 
-To run the notebooks locally, follow these steps:
+To run the notebooks locally:
 
-1. **Clone the repository**:
+ **Clone the repository:**
 
    ```bash
    git clone https://github.com/Mohamed3alaa/Mid-progress.dsai305.git
-   ```
-
-
-2. **Navigate to the project directory**:
-
-   ```bash
    cd Mid-progress.dsai305
    ```
-
 
-3. **Create a virtual environment (optional but recommended)**:
+## 👥 Contributors
 
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
+- **Mohamed Alaa** – Logistic Regression
+- **Ahmed Elrashidy** – Neural Network
+- **Mostafa Adam** – Decision Tree
+- **Muhammad Kamal** – Random Forest
 
-4. **Install the required packages**:
+## GitHub Profile
 
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-
-   *Note: If `requirements.txt` is not provided, ensure the installation of the libraries mentioned in the [Technologies Used](#technologies-used) section.*
-
-5. **Launch Jupyter Notebook**:
-
-   ```bash
-   jupyter notebook
-   ```
-
-
-6. **Open and run the desired notebook**.
-
-## Contributors
-
-- **Ahmed Elrashidy** - [GitHub Profile](https://github.com/AhmedElrashidy11)
 - **Mohamed Alaa** - [GitHub Profile](https://github.com/Mohamed3alaa)
+- **Ahmed Elrashidy** - [GitHub Profile](https://github.com/AhmedElrashidy11)
 - **Mostafa Adam** - [GitHub Profile](https://github.com/mostafa22adam)
 - **Muhammad Kamal** - [GitHub Profile](https://github.com/MuhammadKamal6)
