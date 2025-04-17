@@ -78,7 +78,7 @@ To run the notebooks locally, follow these steps:
 
 ## Contributors
 
-- **Ahmed Mohammed** - [GitHub Profile](https://github.com/AhmedMohammed)
+- **Ahmed Elrashidy** - [GitHub Profile](https://github.com/AhmedElrashidy11)
 - **Mohamed Alaa** - [GitHub Profile](https://github.com/Mohamed3alaa)
 - **Mostafa Adam** - [GitHub Profile](https://github.com/MostafaAdam)
 - **Muhammad Kamal** - [GitHub Profile](https://github.com/MuhammadKamal)
