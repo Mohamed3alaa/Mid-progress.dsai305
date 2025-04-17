@@ -12,6 +12,7 @@ This repository contains the mid-progress submissions for **DSAI 305**. The work
 ├── Mohamed_Alaa_202200980_(LogisticRegrassion_Model).ipynb
 ├── Team_17_DSAI_305_Mostafa_Adam_Proj_Phase_2.ipynb
 ├── Team_17_DSAI__305_Muhammad_Kamal_202200899 (1).ipynb
+├── diabetes_012_health_indicators_BRFSS2015.csv
 ```
 
 Each notebook represents a team member's contribution, covering different ML models and stages of the data pipeline.
